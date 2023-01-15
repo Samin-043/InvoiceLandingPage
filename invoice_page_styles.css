@@ -1,0 +1,1107 @@
+
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+
+
+.header-section{
+    background-color: #212529;
+    color: white;    
+    position: fixed;
+    top: 0;
+    z-index: 1; 
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+
+
+
+.feature-section .card-img-top {
+    width: 10%;
+}
+
+
+
+
+.product_page_list .card img{
+    height: 300px;
+    width: 300px;
+}
+
+
+
+
+
+.navbar{
+    background-color: #000;
+    color: #fff;
+}
+
+
+.navbar-nav .nav-link.active{
+    color: #fff;
+}
+
+.header-section .quickly-logo-image img{
+    height: auto;
+    width: 128px;
+}
+
+
+
+
+.header-section .navbar-toggler{
+    background-color: #fff;
+}
+
+
+
+.custom-button-one{
+    background-color: #000;
+    color: white;
+    border-color: #000;
+    margin-right: 1rem;
+}
+
+
+
+.custom-button-one:hover{
+    color: #e0e4e4;
+    background-color: #000;
+    border-color: #000;
+}
+
+
+.custom-button-one.show{
+    background-color: black;
+    color: #fff;
+    border-color: #000;
+}
+
+
+.invoice_page_img img{
+    height: 300px;
+}
+
+
+
+.first-section{
+    margin-top: 40px;
+
+}
+
+.section-one-button{
+    background-color: #3187aa;
+    color: #fff;
+    border-radius: 4px;
+    border-color: #3187aa;
+}
+
+.section-one-button:hover{
+    background-color: #fff;
+    color: #000;
+    border-color: #3187aa;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.first-section .text-section{
+    padding-top: 10rem;
+
+
+}
+
+
+
+
+
+.first-section h1{
+    font-weight: 400 !important;
+
+}
+
+.first-section h6{
+    font-weight: 400 !important;
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 767px) {
+    .header-section{
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+}
+
+
+
+
+
+
+@media (min-width: 1024px) {
+    .header-section{
+        padding-left: 6rem;
+        padding-right: 6rem;
+    }
+}
+
+
+
+
+
+
+.table-row-two{
+    background-color: #f5f5f5;
+    
+}
+
+
+
+
+
+@media (max-width: 767px) {
+    .body-section{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}
+
+
+
+
+
+
+
+
+@media (min-width: 768px) {
+    .body-section{
+        padding-left: 7rem;
+        padding-right: 7rem;
+    }
+}
+
+
+@media (min-width: 768px) {
+
+    .header-section{
+        padding-left: 7rem;
+        padding-right: 7rem;
+    }
+
+}
+
+
+
+
+
+@media (min-width: 768px) {
+   
+    .footer-section{
+        padding-left: 7rem;
+    }
+
+}
+
+
+
+
+.feature-section .card-text{
+    color: #8e8a8a;
+}
+
+
+
+
+
+
+
+@media (min-width: 2560px) {
+    
+    .header-section{
+        padding-left: 40rem;
+        padding-right: 40rem;
+    }
+
+}
+
+
+
+
+
+
+@media (max-width: 767px) {
+    .footer-section{
+        padding-right: 20rem;
+    }
+    
+
+}
+
+
+
+
+
+
+
+
+
+.product-section
+{
+    margin-top: 50px;
+}
+
+
+.feature-section
+{
+    margin-top: 50px;
+}
+
+
+.pricing-plan
+{
+    margin-top: 50px;
+}
+
+
+
+.feature-section img{
+    height: 60px;
+    width: 60px;
+}
+
+
+.feature-section h1{
+    font-weight: 400 !important;
+
+}
+
+
+
+.card-section-title{
+    box-shadow: 0 0 0.2rem #fee;
+    height: 6rem;
+
+}
+
+
+
+
+
+
+
+
+.feature-section-area{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+}
+
+
+
+
+
+
+
+
+
+.feature-section-area h5{
+    font-weight: 500 !important;
+}
+
+.feature-section-area p{
+    font-weight: 300 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.feature-area .card {
+    --bs-card-border-color: rgb(254 254 254 / 4%);
+
+}
+
+
+
+.section-two .row{
+    margin-top: 20px;   
+}
+
+.section-two .row h3{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+.section-two .row h5{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+
+.section-three .row{
+    margin-top: 20px;   
+}
+
+.section-three .row h3{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+.section-three .row h5{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+
+
+.section-four .paragraph-text{
+    padding: 2rem;
+
+}
+
+.section-four .row h4{
+    font-weight: normal;
+}
+
+.section-four .row h5{
+    font-weight: normal;
+}
+
+
+
+.section-four .card{
+    width: 312px;
+    height: 412px;
+    
+}
+
+.section-four .btn-signup{
+    color: #fff;
+    background-color: #00897b;
+    width: 120px;
+    border-radius: 0.25rem;
+
+}
+
+
+
+.section-four .btn-signin{
+    color: #fff;
+    background-color: #00897b;
+    width: 120px;
+    border-radius: 0.25rem;
+
+}
+
+
+.section-four .first{
+    width: 312px; 
+    height: 412px;
+}
+
+.section-four .second{
+    width: 312px; 
+    height: 412px;
+}
+
+.section-four .one .btn .btn-resturant-outline{
+    background-color: #00897b;
+
+}
+
+
+.section-four{
+    margin-top: 20px;
+    padding-top: 5rem;
+    padding-bottom: 5rem;  
+}
+
+
+
+
+
+.section-four .row{
+    margin-top: 20px;   
+}
+
+.section-four .row h3{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+.section-four .row h5{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+
+.section-four .card{
+    border-radius: 0px;
+    position: static;
+
+}
+
+
+
+.section-five .row h3{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+.section-five .row h5{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+
+.section-five{
+    margin-top: 20px;
+    padding-top: 50px;
+}
+
+
+.section-five .first{
+    padding-top: 50px;
+}
+
+
+.section-five .second{
+    padding-top: 50px;
+}
+
+
+.section-five .third{
+    padding-top: 50px;
+}
+
+
+.section-five img{
+    width: 100%;
+
+}
+
+
+.section-five .button-outline-section{
+    padding-top: 2rem;
+    
+}
+
+
+.section-five .button-outline-section .btn-outline-primary{
+    background-color: #fff;
+    border-color: #00897b;
+    color: #00897b;
+    height: fit-content;
+    width: fit-content;
+}
+
+.section-five .button-outline-section a :hover{
+    background-color: #00897b;
+    border-color: #00897b;
+    color: #fff;
+}
+
+
+.section-five .button-section{
+    height: fit-content;
+    width: fit-content;
+    padding-top: 20px;
+}
+
+
+
+.section-five .text-section .row h3{
+    font-weight: normal;
+    margin-top: 20px;
+    font-size: 28px;
+
+}
+
+.section-five .text-section .row h5{
+    font-weight: normal;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.section-five .text-section-one{
+    padding-left: 2rem;
+}
+
+.section-five .text-section{
+    padding-right: 2rem;
+}
+
+.middle-section{
+    margin-top: 20px;
+    padding-top: 50px;    
+}
+
+.middle-section .first{
+    margin-top: 20px;
+    padding-top: 50px;
+}
+
+
+.middle-section .second{
+    margin-top: 20px;
+    padding-top: 50px;
+}
+
+.middle-section .third{
+    margin-top: 20px;
+    padding-top: 50px;
+}
+
+
+
+.middle-section img{
+    width: 100%;
+}
+
+.middle-section .col-md-6{
+    width: max-content;
+}
+
+.middle-section .middle-text{
+    background-color: #fafbfb;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    justify-content: center;
+}
+
+
+.middle-section .middle-text{
+    background-color: #fafbfb;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    justify-content: center;
+}
+
+
+.middle-section .middle-text .row h3{
+    font-weight: normal;
+    margin-top: 20px;
+    font-size: 28px;   
+}
+
+.middle-section .middle-text .row h5{
+    font-weight: normal;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+
+
+.acc-create{
+    padding-top: 50px;
+}
+
+
+.acc-create img{
+    height: 155px;
+    width: auto;
+}
+
+
+.acc-already-here{
+    padding-top: 50px;
+}
+
+
+
+
+.pricing-card h4{
+    font-weight: 300 !important;
+    font-size: 1.2rem;
+}
+
+
+svg{
+    font-weight: 300 !important;
+}
+
+
+
+
+.section-five .text-section-one .row h3{
+    font-weight: normal;
+    margin-top: 20px;
+    font-size: 28px;
+
+}
+
+.section-five .text-section-one .row h5{
+    font-weight: normal;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+
+.pricing-plan .title-section h1{
+    font-weight: 500 !important;
+}
+
+sup{
+    font-size: small;
+    font-weight: 300 !important;
+}
+
+
+
+.premium-section h1{
+    font-size: x-large;
+
+}
+
+.standard-section h1{
+    font-size: x-large;
+
+}
+
+
+.free-section h1{
+    font-size: x-large;
+}
+
+
+
+
+
+.feature-card{
+    height: 200px;
+}
+
+
+
+
+
+
+
+.price-button{
+    margin-top: 2rem;
+    background-color: #fff;
+    color: #000;
+    border-color: #512888;
+}
+
+
+
+
+
+.price-button:hover{
+    background-color: #512888;
+    color: #fafbfb;
+    border-color: #512888;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.paricing-card h6{
+    font-size: small !important;
+    font-weight: 300 !important;
+
+}
+
+
+
+.paricing-card h4{
+    font-size: small !important;
+    font-weight: 400 !important;
+}
+
+
+/* 
+.right-click-icon {
+    border-bottom-style: ridge;
+    border-width: thin;
+} */
+
+
+.custom-section h1{
+    font-weight: 400 !important;
+    font-size: x-large;
+    color: #512888;
+}
+
+
+
+.custom-section h2{
+    font-weight: 500 !important;
+    color: #512888;
+}
+
+
+
+
+
+
+
+
+.pricing-card h6{
+    font-size: small !important;
+    font-weight: 300 !important;
+}
+
+
+
+
+.pricing-card{
+    padding: 0.5rem;
+}
+
+
+
+
+
+
+
+
+.title-part-pricing{
+    background-color: #3187aa;
+    width: 5rem;
+    height: 2rem;
+    text-align: center;
+    color: #fff;
+
+}
+
+
+
+.custom-section{
+    border-color:#512888 ;
+}
+
+
+
+.free-section .border {
+    border: var(--bs-border-width) var(--bs-border-style) #512888!important;
+}
+
+
+.standard-section .border {
+    border: var(--bs-border-width) var(--bs-border-style) #512888!important;
+}
+
+
+.premium-section .border {
+    border: var(--bs-border-width) var(--bs-border-style) #512888!important;
+}
+
+.feature-point-area{
+    background-color: #5228883b;
+    color:#512888;
+}
+
+
+
+
+
+.custom-price-card-section
+{
+
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;;
+    width: 20rem;
+    height: max-content;
+    border-radius: 0.4rem;
+}
+
+
+.card-section h6{
+    color: #512888;
+    font-weight: 400 !important;
+}
+
+
+
+.card-section h4{
+    font-weight: 300 !important;
+    color: #512888;
+}
+
+
+
+.custom-price-card-section-premium{
+    background-color: #3bc1932b;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;;
+    width: 20rem;
+    height: max-content;
+    border-radius: 0.4rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+.section-six{
+    margin-top: 50px;
+}
+
+
+
+
+
+.section-six .row{
+    margin-top: 20px;
+    padding-top: 10px;
+       
+}
+
+.section-six .row h6{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+
+.section-six .row h3{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+.section-six img{
+    height: 60px;
+    width: 60px;
+}
+
+
+
+
+.feature-section h5{
+    font-weight: 400 !important;
+}
+
+.feature-section p{
+    font-weight: 300 !important;
+}
+
+
+
+
+
+.feature-section .title-part h1{
+    text-align: center;
+    font-weight:300 !important;
+}
+
+
+.feature-section .section-part h6{
+    text-align: center;
+    font-weight:400 !important;
+}
+
+.feature-area .card-body{
+    padding: 0px;
+
+}
+
+
+
+
+.body-section{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+@media (min-width: 992px) {
+    .body-section{
+        padding-left: 7rem;
+        padding-right: 7rem;
+    }
+}
+
+
+
+
+
+@media (min-width: 2560px) {
+    .body-section{
+        padding-left: 40rem;
+        padding-right: 40rem;
+    }
+}
+
+@media (min-width: 2560px) {
+    .footer-section{
+        padding-left: 40rem;
+        padding-right: 40rem;
+    }
+}
+
+
+
+@media (min-width: 2560px) {
+    .header-section{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}
+
+
+
+
+
+
+
+.footer-section{
+    
+    background-color: #000;  
+    padding-bottom: 20px;
+
+}
+.footer-section .row{
+    margin-top: 20px;   
+}
+
+.footer-section .row{
+    margin-top: 20px;   
+}
+
+
+.footer-section .row h3{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+.footer-section .row h5{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+
+.footer-right-section{
+    margin-left: 100px;
+    margin-right: 100px;
+    color: #888;
+}
+
+
+.footer-right-section a:hover{
+    color: #888;
+    text-decoration: none;
+
+}
+
+.footer-right-section a{
+    color: #888;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+
+.content-section{
+    font-size: 13px;
+    color: #c7ccc773;
+}
+
+
+
+.footer-left-section a{
+    text-decoration: none;
+    color: #888;
+    font-size: 12px;
+}
+
+
+
+
+
+.footer-section{
+    margin-top: 20px;
+
+}
+
+
+.footer-left-section a:hover{
+    color: #e0e4e4;
+}
+
+
+
+
+
+
+.footer-section .last-paragraph{
+    padding-top: 160px;
+    font-size: 13px;
+}
+
+
+.pricing-card .pricing-card-icon{
+    width: 100%;
+    justify-content: center;
+}
+
+
+.pricing-card .pricing-card-icon img{
+    width: 80px;
+    height: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
